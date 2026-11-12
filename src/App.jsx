@@ -12,7 +12,7 @@ function App() {
         <div className="flex items-center justify-center py-8">
           <ProfileCard />
         </div>
-        <section className="grid grid-cols-3 gap-6 max-w-4xl mx-auto">
+        <section className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
           <FeatureCard
             title="HTML & CSS"
             description="building structured, styled web pages"
