@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="bg-gray-800 px-6 py-4">
       <div className="flex items-center justify-between">
         <span className="text-xl font-bold text-white">DevProfile</span>
-        <div className="hidden md:flex flex gap-4">
+        <div className="hidden md:flex gap-4">
           <a href="#" className="text-gray-300 hover:text-white transition-colors duration-200">
             Home
           </a>
